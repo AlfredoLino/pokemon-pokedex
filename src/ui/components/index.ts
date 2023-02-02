@@ -1,0 +1,1 @@
+export {PokemonFetcher} from './PokemonFetcher'
